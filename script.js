@@ -17,7 +17,7 @@ async function checkBalance(address, apiKey) {
 }
 
 // Your API key from Etherscan
-const apiKey = 'Your-API-key';
+const apiKey = 'YOUR_API_KEY';
 
 // Ethereum address to check balance
 const ethereumAddress = '0x742d35Cc6634C0532925a3b844Bc454e4438f44e';
